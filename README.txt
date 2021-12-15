@@ -1,1 +1,1 @@
-URL to portfolio website: https://dsjoebui.github.io/Portfolio/projects.html
+URL to portfolio website: https://dsjoebui.github.io/Portfolio/
